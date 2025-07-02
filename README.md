@@ -71,7 +71,7 @@ o	Data contoh:
 
 o	Tindakan: Edit dan Hapus
 
-<img width="650" alt="Screenshot 2025-07-02 202606" src="https://github.com/user-attachments/assets/3ed532ab-fe83-4d41-acd9-539e92354bf0" />
+<img width="650" alt="Screenshot 2025-07-02 205139" src="https://github.com/user-attachments/assets/904972ca-36c4-4ac4-825e-f21a50af0272" />
 
 **4. Halaman kelola About**
 
@@ -90,7 +90,7 @@ o	Berisi paragraf:
 
 o	Edit dan Hapus
 
-<img width="650" alt="Screenshot 2025-07-02 202756" src="https://github.com/user-attachments/assets/441a3b5e-59cc-4bf5-af86-aeec8ad497ad" />
+<img width="650" alt="Screenshot 2025-07-02 202606" src="https://github.com/user-attachments/assets/b12c21f1-1420-4875-b74c-719a292bb2ca" />
 
 **5. Halaman Login Administrator**
 
@@ -113,7 +113,7 @@ o	Username yang digunakan adalah "niha"
 •	Footer:
 o	© 2025 - Nihayatus Sa’adah
 
-<img width="650" alt="Screenshot 2025-07-02 202912" src="https://github.com/user-attachments/assets/6d231556-b8c9-4b01-a3e1-36337bae0a4e" />
+<img width="650" alt="Screenshot 2025-07-02 202756" src="https://github.com/user-attachments/assets/3777eae9-9b67-4465-b949-441402195be9" />
 
 **6. Halaman Utama Website**
 
@@ -152,7 +152,7 @@ o	Paragraf yang sama seperti versi admin:
 o	Warna utama: dominasi ungu / pastel
 o	Tampilan bersih dan rapi
 
-<img width="650" alt="Screenshot 2025-07-02 203656" src="https://github.com/user-attachments/assets/20a0681a-a14f-4685-b45c-377912a51233" />
+<img width="650" alt="Screenshot 2025-07-02 202912" src="https://github.com/user-attachments/assets/86065dc0-7c7a-4ca9-8d22-661c034d62e9" />
 
 **8. Halaman Gallery (User View) (gallery.php)**
 
