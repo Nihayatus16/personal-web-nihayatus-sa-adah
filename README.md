@@ -58,13 +58,17 @@ a. Fungsi Halaman:
 Menampilkan daftar gambar beserta keterangan dan menyediakan fitur edit & hapus galeri foto.
 
 b. Elemen:
+
 Judul Halaman: “Kelola Gallery”
+
 Tabel Galeri:
 o	Kolom: No, Foto, Keterangan, Aksi
 o	Data contoh:
+
 	Foto 1: “perkemahan se-jawabarat”
 	Foto 2: “serah terima jabatan ketua osis”
 	Foto 3: “cek hb with bu bidan”
+
 o	Tindakan: Edit dan Hapus
 
 <img width="650" alt="Screenshot 2025-07-02 202606" src="https://github.com/user-attachments/assets/3ed532ab-fe83-4d41-acd9-539e92354bf0" />
@@ -76,10 +80,14 @@ Untuk mengatur konten halaman About Me yang akan ditampilkan ke pengunjung.
 
 b. Elemen:
 •	Judul Halaman: “Kelola Halaman About”
+
 •	Konten Teks:
+
 o	Berisi paragraf:
 "Saya adalah seorang yang menyukai dunia komputer sejak kecil. Dari kecil saya suka mengetik di laptop walaupun hanya mengetik biasa tanpa tahu artinya. Saat ini saya sedang menempuh pendidikan di Fakultas Ilmu Komputer. Walaupun saya tidak terlalu paham dengan dunia coding, saya ingin terus belajar dan mengembangkan diri di bidang ini."
+
 •	Tombol Aksi:
+
 o	Edit dan Hapus
 
 <img width="650" alt="Screenshot 2025-07-02 202756" src="https://github.com/user-attachments/assets/441a3b5e-59cc-4bf5-af86-aeec8ad497ad" />
@@ -90,14 +98,18 @@ a. Fungsi Halaman:
 Tempat admin melakukan proses login ke dalam sistem admin web.
 
 b. Elemen:
+
 •	Input Form:
 o	Username
 o	Password
+
 •	Tombol:
 o	Login
 o	Cancel
+
 •	Pengingat Username:
 o	Username yang digunakan adalah "niha"
+
 •	Footer:
 o	© 2025 - Nihayatus Sa’adah
 
@@ -109,8 +121,10 @@ a. Fungsi Halaman:
 Halaman awal yang dilihat pengunjung umum (user) berisi artikel-artikel terbaru.
 
 b. Elemen:
+
 •	Header / Navbar:
 o	Link navigasi: Artikel, Gallery, About, Login
+
 •	Konten Artikel Terbaru:
 o	Judul: “Di mana posisi Indonesia dalam konflik Iran-Israel?”
 o	Isi: Ringkasan isi artikel (paragraf pendek)
@@ -127,10 +141,13 @@ a. Fungsi Halaman:
 Menampilkan informasi pemilik web kepada pengunjung umum.
 
 b. Elemen:
+
 •	Judul: "About Me | Nihayatus Sa’adah"
+
 •	Konten Teks:
 o	Paragraf yang sama seperti versi admin:
 "Saya adalah seorang yang menyukai dunia komputer sejak kecil..."
+
 •	Desain:
 o	Warna utama: dominasi ungu / pastel
 o	Tampilan bersih dan rapi
@@ -143,6 +160,7 @@ a. Fungsi Halaman:
 Menampilkan galeri foto kegiatan pribadi pemilik web kepada pengunjung.
 
 b. Elemen:
+
 •	Judul: “Gallery | Nihayatus Sa’adah
 
 <img width="650" alt="Screenshot 2025-07-02 203724" src="https://github.com/user-attachments/assets/0b33024b-7d4d-4fb7-8808-b2bcddbaedcd" />
