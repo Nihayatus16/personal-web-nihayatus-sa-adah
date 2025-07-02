@@ -133,7 +133,7 @@ o	Disajikan dalam gaya card news
 c. Daftar Artikel Lainnya:
 o	Ditampilkan secara ringkas, kemungkinan dengan link ke detail artikel.
 
-<img width="650" alt="Screenshot 2025-07-02 203656" src="https://github.com/user-attachments/assets/08a949e6-90e7-4b98-8c45-47fc27939e7d" />
+<img width="650" alt="Screenshot 2025-07-02 202912" src="https://github.com/user-attachments/assets/86065dc0-7c7a-4ca9-8d22-661c034d62e9" />
 
 **7. Halaman About Me (User View) (about.php)**
 
@@ -152,7 +152,7 @@ o	Paragraf yang sama seperti versi admin:
 o	Warna utama: dominasi ungu / pastel
 o	Tampilan bersih dan rapi
 
-<img width="650" alt="Screenshot 2025-07-02 202912" src="https://github.com/user-attachments/assets/86065dc0-7c7a-4ca9-8d22-661c034d62e9" />
+<img width="650" alt="Screenshot 2025-07-02 203656" src="https://github.com/user-attachments/assets/08a949e6-90e7-4b98-8c45-47fc27939e7d" />
 
 **8. Halaman Gallery (User View) (gallery.php)**
 
