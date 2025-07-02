@@ -2,13 +2,17 @@
 personal web nihayatus sa'adah menggunakan PHP, MySQL, HTML, dan TailwindCSS
 
 **1. **Halaman Dashboard Admin****
+
 a. Fungsi Halaman: Halaman utama admin setelah berhasil login. Berfungsi menampilkan informasi ringkas dan akses cepat ke manajemen konten.
+
 b. Elemen:
 •	Header:
 o Judul situs: Personal Web | Nihayatus Sa’adah
+
 c. Greeting Section:
 o	Pesan: “Halo, niha! Apa kabar? 😊”
 o	Memberikan kesan personal dan ramah untuk admin yang login.
+
 d. Statistik Ringkas:
 o	Artikel: 6
 o	Gallery: 16
@@ -25,13 +29,17 @@ o	© 2025 | Created by Nihayatus Sa’adah
 <img width="650" alt="Screenshot 2025-07-02 202401" src="https://github.com/user-attachments/assets/9438bcf9-2aec-4441-b9eb-def5620b1881" />
 
 **2. Halaman Kelola Artikel**
+
 a. Fungsi Halaman:
 Untuk menampilkan dan mengelola seluruh artikel yang sudah dimasukkan admin. Termasuk fitur tambah, edit, dan hapus artikel.
+
 b. Elemen:
 •	Header:
 o	Tulisan // HALAMAN ADMIN //
+
 c. Tombol Tambah Artikel:
 o	"+ Tambah Artikel" (berwarna biru, biasanya tombol bootstrap)
+
 d. Tabel Data Artikel:
 o	Kolom:
 1.	No
@@ -45,8 +53,10 @@ o	Data:
 <img width="650" alt="Screenshot 2025-07-02 202448" src="https://github.com/user-attachments/assets/9a6e99fd-069f-4d6e-a761-5e0f68b17b65" />
 
 **3. Halaman Kelola Gallery**
+
 a. Fungsi Halaman:
 Menampilkan daftar gambar beserta keterangan dan menyediakan fitur edit & hapus galeri foto.
+
 b. Elemen:
 Judul Halaman: “Kelola Gallery”
 Tabel Galeri:
@@ -60,8 +70,10 @@ o	Tindakan: Edit dan Hapus
 <img width="650" alt="Screenshot 2025-07-02 202606" src="https://github.com/user-attachments/assets/3ed532ab-fe83-4d41-acd9-539e92354bf0" />
 
 **4. Halaman kelola About**
+
 a. Fungsi Halaman:
 Untuk mengatur konten halaman About Me yang akan ditampilkan ke pengunjung.
+
 b. Elemen:
 •	Judul Halaman: “Kelola Halaman About”
 •	Konten Teks:
@@ -73,8 +85,10 @@ o	Edit dan Hapus
 <img width="650" alt="Screenshot 2025-07-02 202756" src="https://github.com/user-attachments/assets/441a3b5e-59cc-4bf5-af86-aeec8ad497ad" />
 
 **5. Halaman Login Administrator**
+
 a. Fungsi Halaman:
 Tempat admin melakukan proses login ke dalam sistem admin web.
+
 b. Elemen:
 •	Input Form:
 o	Username
@@ -90,8 +104,10 @@ o	© 2025 - Nihayatus Sa’adah
 <img width="650" alt="Screenshot 2025-07-02 202912" src="https://github.com/user-attachments/assets/6d231556-b8c9-4b01-a3e1-36337bae0a4e" />
 
 **6. Halaman Utama Website**
+
 a. Fungsi Halaman:
 Halaman awal yang dilihat pengunjung umum (user) berisi artikel-artikel terbaru.
+
 b. Elemen:
 •	Header / Navbar:
 o	Link navigasi: Artikel, Gallery, About, Login
@@ -99,14 +115,17 @@ o	Link navigasi: Artikel, Gallery, About, Login
 o	Judul: “Di mana posisi Indonesia dalam konflik Iran-Israel?”
 o	Isi: Ringkasan isi artikel (paragraf pendek)
 o	Disajikan dalam gaya card news
+
 c. Daftar Artikel Lainnya:
 o	Ditampilkan secara ringkas, kemungkinan dengan link ke detail artikel.
 
 <img width="650" alt="Screenshot 2025-07-02 203656" src="https://github.com/user-attachments/assets/08a949e6-90e7-4b98-8c45-47fc27939e7d" />
 
 **7. Halaman About Me (User View) (about.php)**
+
 a. Fungsi Halaman:
 Menampilkan informasi pemilik web kepada pengunjung umum.
+
 b. Elemen:
 •	Judul: "About Me | Nihayatus Sa’adah"
 •	Konten Teks:
@@ -119,8 +138,10 @@ o	Tampilan bersih dan rapi
 <img width="650" alt="Screenshot 2025-07-02 203656" src="https://github.com/user-attachments/assets/20a0681a-a14f-4685-b45c-377912a51233" />
 
 **8. Halaman Gallery (User View) (gallery.php)**
+
 a. Fungsi Halaman:
 Menampilkan galeri foto kegiatan pribadi pemilik web kepada pengunjung.
+
 b. Elemen:
 •	Judul: “Gallery | Nihayatus Sa’adah
 
